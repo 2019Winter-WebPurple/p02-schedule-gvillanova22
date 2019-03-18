@@ -1,0 +1,26 @@
+* Gia Villanova
+* March 20 2019
+* Schedule 
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body properties here */
+
+body {
+    
+}
+
+
+table, td, th { border: 1px solid gray }
+
+table { border-collapse: collapse; }
+
+
+thead {background-color: lavenderblush; }
+tbody {background-color: mintcream; }
+tfoot {background-color: lavender; }
